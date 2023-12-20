@@ -1,1 +1,13 @@
-.github/**
+
+.DS_Store
+.vscode
+washington.csv
+new_york_city.csv
+chicago.csv
+Application\ Data/
+Cookies/
+Documents/My\ Music/
+Documents/My\ Pictures/
+Documents/My\ Videos/
+Local\ Settings/
+My\ Documents/
