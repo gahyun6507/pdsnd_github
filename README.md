@@ -1,5 +1,7 @@
 # phsnd_github
 
+title: git
+README.md update!
 
 ### Date 
 2023-12-21
@@ -20,3 +22,5 @@ Hunter Sparrow
 
 ### developer
 gahyun
+
+
