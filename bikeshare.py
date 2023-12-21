@@ -3,8 +3,15 @@ import pandas as pd
 import numpy as np
 
 
+
 #last update
 #2023-12-21
+
+
+
+# title: update bikeshare.py
+# last update 23-12-21
+
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
