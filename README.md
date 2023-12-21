@@ -1,3 +1,6 @@
+title: developer update
+developer: kimgahyun
+
 ### Date
 August 21st 2023
 
@@ -13,8 +16,8 @@ Git documentation worksheet and US Bikeshare.py
 ### Credits
 Udacity Nanodegree program Hunter Sparrow
 
-### developer
-gahyun
 
 ### last update
 2023-12-20
+
+
